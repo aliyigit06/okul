@@ -1,12 +1,12 @@
-<h1> Film Sitesi Tasarımı </h1> 
+<h1> Movie Web Site Design </h1> 
 
-Html ve Css kullanılarak modern bir web sitesi tasarımı oluşturuldu.
+A modern web site design was created using HTML and CSS.
 
-<h2> Harici Eklentiler </h2>
+<h2> External Plugins </h2>
 
-Bootstrap Icons kütüphanesi kullanılmıştır.
+The Bootstrap Icons library was used.
 
-<h2> Ekran Görüntüsü </h2>
+<h2> Screenshot </h2>
 
 ![](Screenshot_1.jpg)
 
